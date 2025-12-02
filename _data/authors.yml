@@ -1,18 +1,9 @@
-# Authors
-
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Yimeng Shan:
+  name        : "Yimeng (Emaon) Shan"
+  uri         : ""
+  email       : "23058364G@connect.polyu.hk"
+  bio         : "AI & data science researcher focusing on large language models, federated learning, and intelligent building analytics."
+  avatar      : "profile.png"
+  location    : "Hong Kong SAR & Guangzhou, China"
+  employer    : "The Hong Kong Polytechnic University"
+  github      : "LiuShisan23"
