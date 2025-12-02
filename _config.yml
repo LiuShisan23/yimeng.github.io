@@ -13,9 +13,9 @@ title                    : "Yimeng Shan | Academic Portfolio"
 title_separator          : "-"
 name                     : &name "Yimeng (Emaon) Shan"
 description              : &description "AI researcher focused on large language models, optimization, and intelligent systems."   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://LiuShisan23.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://liushisan23.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/yimeng.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "LiuShisan23/yimeng.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
