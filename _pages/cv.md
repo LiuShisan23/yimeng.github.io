@@ -7,6 +7,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV (DOCX)]({{ "/files/resume-Yimeng-Shan.docx" | relative_url }}){: .btn .btn--success target="_blank"}
+
 ## Education
 
 - **MSc, Artificial Intelligence & Big Data Computing**, The Hong Kong Polytechnic University, Hong Kong SAR (09/2023–01/2025)  
